@@ -94,6 +94,18 @@ TECHNICAL.md          problem, data, architecture, training, results,
                        findings, limitations -- the full write-up
 ```
 
+## Orbital etiquette
+
+A quick onboarding guide for the satellite (humans may also benefit):
+
+- **Conjunctions are not networking events.** You do not need to get closer.
+- **Respect personal space.** Especially at orbital velocity.
+- **Fuel is expensive.** Panic responsibly.
+- **The "do nothing" baseline is a benchmark,** not a lifestyle recommendation.
+- **If you can read the other satellite's serial number,** the introduction has gone too far.
+
+*This section has not been peer-reviewed by a satellite.*
+
 ## License
 
 Code: MIT (see [LICENSE](LICENSE)). The `data/kelvins_cdm/` dataset is
